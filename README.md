@@ -5,6 +5,9 @@ We had a few things happen in the family so that why i was late.
 I went about it in a wat that made sence to me.
 It is a game that lets you know if you win or lose.
 
+the game is easy to play, you have 5 buttons to press and you will win, lose or draw.
+
+
 
 Lighthouse:
 
@@ -24,3 +27,16 @@ Wc3-CSS:
 Am i Responsive:
 
 ![ROCKPAPER-responsive](https://user-images.githubusercontent.com/49871548/153720473-53438874-317a-43c6-a5b1-ec1b5efa4c11.PNG)
+
+
+I did not find any special bugs and i found it to be a fun challange, i do hope i have more time to do the future projects better.
+
+
+Credit:
+
+I used inspiration from diffrent youtubers.
+Mostly i watched:
+*https://www.youtube.com/c/WebDevSimplified: Web dev simplified. He has good videos.
+*https://www.w3schools.com/: w3school have a lot of information about most programing language.
+
+//Tobias Hamn.
