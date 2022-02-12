@@ -3,3 +3,6 @@ We had a few things happen in the family so that why i was late.
 
 
 I went about it in a wat that made sence to me.
+It is a game that lets you know if you win or lose.
+
+
